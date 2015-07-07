@@ -92,7 +92,7 @@ Wait for the installation and reboot.
 
 #2 Software installation
 
-We start the installation script of all the needed software in the same way as above. I made a distinction between 17.1 and 17.2. At time of writing we have a release candidate. 
+We start the installation script of all the needed software in the same way as above. 
 
 	- ./script_to_install_Linux_mint_17_2_def_vxx.sh
 
@@ -110,7 +110,7 @@ And a specific script for samba (sharing of maps on your home network) if you ne
 
 ZSH and Oh-my-sh
 -----------------------
-I like bash but I prefer zsh. So let us install that in the script
+I like bash but I prefer zsh with lots of different theme to spice things up. So let us install that in the script
 
 ./install_zsh.sh
 

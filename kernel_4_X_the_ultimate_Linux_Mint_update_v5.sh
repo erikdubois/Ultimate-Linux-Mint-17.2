@@ -65,14 +65,14 @@ sudo apt-get autoremove -y
 
 # latest kernel check the following url
 # http://kernel.ubuntu.com/~kernel-ppa/mainline/
-# at the moment you can have kernel 4.0
+# at the moment you can have kernel 4.2.0
 # depending of you hardware you can install it as wel
 # keep in mind that nvidia or ati drivers sometimes clash with the kernel
 # read the latest article on these matters at http://erikdubois.be
  
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.1-rc8-unstable/linux-headers-4.1.0-040100rc8-generic_4.1.0-040100rc8.201506150335_amd64.deb
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.1-rc8-unstable/linux-headers-4.1.0-040100rc8_4.1.0-040100rc8.201506150335_all.deb
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.1-rc8-unstable/linux-image-4.1.0-040100rc8-generic_4.1.0-040100rc8.201506150335_amd64.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.2-rc1-unstable/linux-headers-4.2.0-040200rc1-generic_4.2.0-040200rc1.201507051635_amd64.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.2-rc1-unstable/linux-headers-4.2.0-040200rc1_4.2.0-040200rc1.201507051635_all.deb
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.2-rc1-unstable/linux-image-4.2.0-040200rc1-generic_4.2.0-040200rc1.201507051635_amd64.deb
 
 sudo dpkg -i linux*
 
