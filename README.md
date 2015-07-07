@@ -1,10 +1,10 @@
 # Ultimate Linux Mint 17.2 Cinnamon
 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png)
+![Screenshots](http://i.imgur.com/tl1N9yf.jpg)
 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
+![Screenshots](http://i.imgur.com/DMCuX2Z.jpg)
 
 This is my way of working when installing a new operating system.
 

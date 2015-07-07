@@ -125,7 +125,8 @@ sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip sharutils rar
 ############################################################################
 
 #software from extra repositories
-sudo apt-get install -y browser-plugin-vlc copy grub-customizer plank screenfetch spotify-client vlc 
+sudo apt-get install -y browser-plugin-vlc copy grub-customizer plank screenfetch vlc
+sudo apt-get install -y spotify-client
 #sudo apt-get install oracle-java8-installer -y
 #sudo apt-get install oracle-java7-installer
 #sudo apt-get install oracle-java6-installer
