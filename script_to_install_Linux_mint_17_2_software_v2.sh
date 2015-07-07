@@ -75,8 +75,6 @@ sudo add-apt-repository ppa:paolorotolo/copy -y
 sudo add-apt-repository ppa:ricotz/docky -y
 # open as administrator
 sudo add-apt-repository ppa:noobslab/apps -y
-# repo for ravefinity themes
-sudo add-apt-repository ppa:ravefinity-project/ppa -y
 # repo for numix themes
 sudo add-apt-repository ppa:numix/ppa -y
 # repo for screenfetch
@@ -137,7 +135,6 @@ sudo apt-get install -y browser-plugin-vlc copy grub-customizer plank screenfetc
 ############################################################################
 
 #themes
-sudo apt-get install ambiance-colors -y
 sudo apt-get install numix-gtk-theme numix-icon-theme-circle -y 
 
 ############################################################################

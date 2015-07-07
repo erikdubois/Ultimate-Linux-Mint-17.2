@@ -125,6 +125,25 @@ ZSH_THEME="random"
 Latest script will take care of that automatically.
 
 
+
+Icons and themes 
+-------------------
+
+All interesting themes and icons have been consolidated here : 
+
+https://github.com/erikdubois/themes-icons-pack
+
+
+
+Sardi Icon Theme
+-------------------
+
+This icon theme can be downloaded here.
+
+https://github.com/erikdubois/Sardi
+
+
+
 Google Drive
 ----------------
 I do not need to have the google drive on my computer but if you do
