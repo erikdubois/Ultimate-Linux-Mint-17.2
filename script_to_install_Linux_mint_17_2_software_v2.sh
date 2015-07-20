@@ -93,7 +93,7 @@ sudo apt-get -y update
 ############################################################################
 
 
-#Linux Mint 17.1 Specific
+#Linux Mint 17.2 Specific
 sudo apt-get install -y libnss-myhostname nemo-dropbox
 
 

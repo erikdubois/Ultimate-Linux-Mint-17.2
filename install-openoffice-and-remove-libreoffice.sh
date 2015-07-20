@@ -4,11 +4,6 @@
 # Author 	: 	Erik Dubois
 # Website 	: 	http://www.erikdubois.be
 ############################################################################
-# conky and all its components are installed via an other script
-# at http://sourceforge.net/projects/auroraconkytheme/
-# Explanation on the use of this theme can be found at 
-# http://erikdubois.be/linux/install-conky-theme-aurora
-############################################################################
 # the option -y has been added. It will autoinstall all. Omit if you do not want that.
 ############################################################################
 #

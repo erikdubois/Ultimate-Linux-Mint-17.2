@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 ############################################################################
 # Written to be used on 64 bits computers
 # Author 	: 	Erik Dubois
@@ -26,12 +26,20 @@
 #
 #
 ############################################################################
-# Below command will backup everything inside the project folder
-git add --all .
 
-# Committing to the local repository with a message containing the time details
-curtime=$(date)
-git commit -m "Automatic Backup @ $curtime"
+# http://forum.linuxmint.com/viewtopic.php?f=47&t=184839
 
-# Push the local snapshot to a remote destination
-git push origin master
+cp dropbox.sh ~/.dropbox.sh
+
+echo "check what you need to do manually"
+
+# Manually do the following
+
+# System Settings > Preferences > Startup Applications > Add
+
+# Name: dropbox temp fix
+# Command: [browse to dropbox.sh]
+# Startup delay: 30 seconds
+# Save, close and restart.
+
+# No need to delete or change the dropbox starter.
